@@ -1,0 +1,30 @@
+{
+  "name": "setup-nodejs",
+  "version": "0.0.1",
+  "description": "projeto de demonstração",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinux/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "Marcus Molinero <molinuxbr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molinux/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/molinux/setup-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.0"
+  }
+}
